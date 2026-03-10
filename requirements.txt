@@ -1,2 +1,3 @@
 akshare
 pandas
+matplotlib
