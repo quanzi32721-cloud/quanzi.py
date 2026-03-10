@@ -1,3 +1,5 @@
 akshare
 pandas
 matplotlib
+requests
+streamlit
